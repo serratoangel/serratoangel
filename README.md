@@ -1,6 +1,6 @@
 # Hello there! Nice to see you. <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/apple/325/speech-balloon_1f4ac.png" width="30px">
 
-Welcome to this gorgeous place. My name is Angel Serrato. I am from Colombia, studying all the techonologies related to Front-end development and Software Engineer.
+Welcome to this gorgeous place. My name is Angel Serrato. I am from Colombia. I'm studying all the techonologies related to Front-end development and Software Engineer. See you!
 
 ---
 
